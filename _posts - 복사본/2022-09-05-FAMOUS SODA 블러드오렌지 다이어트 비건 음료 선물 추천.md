@@ -1,11 +1,11 @@
 ﻿---
 layout: post
-title:  "머스트잇 선물 추천"
+title:  "FAMOUS SODA 블러드오렌지 다이어트 비건 음료 선물 추천"
 author: John
 categories: [ 다이어트 ]
 tags: [ 다이어트 식단, 다이어트, 다이어트 약, 다이어트 도시락, 다이어트 간식, 다이어트 음식, 다이어트 자극사진, 다이어트 전후, 다이어트 보조제, 다이어트 더쿠 ]
-image: https://img.podgate.com/content/adpick/2017/1228/15144382771804610.jpg 
-description: "머스트잇 선물 추천 관련 상품으로 가장 고객 선호도가 높은 제품입니다."
+image: https://shopping-phinf.pstatic.net/main_3209370/32093708166.jpg 
+description: "FAMOUS SODA 블러드오렌지 다이어트 비건 음료 선물 추천 관련 상품으로 가장 고객 선호도가 높은 제품입니다."
 toc: true
 toc_sticky: true
 ---
@@ -13,20 +13,20 @@ toc_sticky: true
 <br>
 "<b><font color='#ff0000'>다이어트</font></b>" 관련 상품 정보입니다.
 <br>
-<b><font color='#ff0000'>머스트잇</font></b> 상품 구매를 고려중이시면 아래의 상품을 참고하시기 바랍니다.
+<b><font color='#ff0000'>FAMOUS SODA 블러드오렌지 다이어트 비건 음료</font></b> 상품 구매를 고려중이시면 아래의 상품을 참고하시기 바랍니다.
 <br>
 당신의 취향과 스타일에 맞는 제품을 선택하여 즐거운 쇼핑 되세요!
 <br><br>
 <hr>
 <p>
     
-<center><h2><a href="https://nico.kr/KZAJYm" target="_blank"><b>머스트잇몰 - <font color='#01579B'>머스트잇</font></b></a></h2><br>
+<center><h2><a href="https://nico.kr/jasv7E" target="_blank"><b>홈플러스몰 - <font color='#01579B'>FAMOUS SODA 블러드오렌지 다이어트 비건 음료</font></b></a></h2><br>
 
-<a href="https://nico.kr/KZAJYm" target="_blank"><img src="https://img.podgate.com/content/adpick/2017/1228/15144382771804610.jpg"></a><br><br>
+<a href="https://nico.kr/jasv7E" target="_blank"><img src="https://shopping-phinf.pstatic.net/main_3209370/32093708166.jpg"></a><br><br>
 
-<b><font color='#ff0000'>판매가 :  </font></b><br>
+<b><font color='#ff0000'>판매가 : 3,500원 </font></b><br>
 
-<a href="https://nico.kr/KZAJYm" target="_blank" class="button">상품&리뷰 바로가기</a><p>
+<a href="https://nico.kr/jasv7E" target="_blank" class="button">상품&리뷰 바로가기</a><p>
 
         <style>
         .button{
